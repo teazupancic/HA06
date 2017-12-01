@@ -1,0 +1,35 @@
+h1 {
+    color:red !important;
+}
+
+p {
+    color:green;
+}
+#body {
+    color:brown;
+}
+a[target] {
+    background-color:lightblue;
+}
+
+#id {
+    background-color: orange;
+}
+
+div {
+    background-color: lightgreen;
+}
+
+.class {
+    background-color: pink;
+}
+
+div p {
+    background-color:silver;
+}
+a:hover {
+    background-color: white;
+}
+:not(a) {
+    background-color: magenta;
+}
