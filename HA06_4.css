@@ -1,0 +1,15 @@
+.relative {
+    width:20em;
+    border: 2px dashed blue;
+    position:relative;
+    left:150px;
+}
+.absolute {
+    max-width:150px;
+    border: 2px dashed black;
+    position: absolute;
+    left: -150px;
+    top:0;
+    bottom:0;
+    
+}
